@@ -13,3 +13,9 @@ Cada atividade possui sua própria pasta com:
 - Estilização com **CSS3**
 - Layouts e componentes com **Bootstrap**
 - Boas práticas de organização de projetos
+
+## Estrutura de Pastas
+- 01-nome-da-atividade/ → Primeira atividade
+- 02-nome-da-atividade/ → Segunda atividade
+- 03-nome-da-atividade/ → Terceira atividade
+- ...
