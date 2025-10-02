@@ -16,11 +16,13 @@ Diferente da atividade anterior (que utilizava apenas HTML), aqui foi necessári
 - Conteúdo de texto, títulos e imagens pôde ser modificado livremente.
 
 ## Estrutura de Arquivos
+```
 01-CSS-LANDING-PAGE/
 │
 ├── index.html → Estrutura da página
 ├── style.css → Arquivo de estilos (CSS)
 └── assets/ → Imagens e ícones usados na atividade
+```
 
 ## Objetivo de Aprendizado
 - Praticar a escrita de **CSS puro** para estilização de layouts.  

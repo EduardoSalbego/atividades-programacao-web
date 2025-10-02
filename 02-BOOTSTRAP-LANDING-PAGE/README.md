@@ -16,10 +16,12 @@ Não foi permitido adicionar CSS personalizado — toda a formatação e organiz
 - O conteúdo textual, títulos e imagens pôde ser modificado livremente.
 
 ## Estrutura de Arquivos
+```
 02-BOOTSTRAP-LANDING-PAGE/
 │
 ├── index.html → Estrutura da página com Bootstrap
 └── assets/ → Imagens e ícones usados na atividade
+```
 
 ## Objetivo de Aprendizado
 - Consolidar o uso de **Bootstrap** para criar layouts responsivos.  
